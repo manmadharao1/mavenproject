@@ -35,13 +35,13 @@
   <distributionManagement>
       <snapshotRepository>
         <id>nexus</id>
-        <name>sivasankar</name>
-		<url>http://44.202.70.41:8081/repository/todayangry/</url>
+        <name>manu</name>
+		<url>http://18.142.105.104:8081/repository/manurepo/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
-        <name>sivasankar</name>
-		<url>http://44.202.70.41:8081/repository/todayangry/</url>
+        <name>manu</name>
+		<url>http://18.142.105.104:8081/repository/manurepo/</url>
       </repository>
 	
    </distributionManagement>
