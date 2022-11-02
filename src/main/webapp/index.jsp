@@ -18,7 +18,7 @@
     </head>
 
     <body>
-        <marquee class="blink">This is an example of blinking text using CSS within a marquee.</marquee>
+        <marquee class="manu"</marquee>
     </body>
 
 </html>
