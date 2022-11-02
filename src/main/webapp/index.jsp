@@ -1,25 +1,30 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html>
 <html>
-
-    <head>
-        <title>Example of a blinking text using CSS within a marquee</title>
-        <style>
-            .blink {
-                animation: blinker 1.5s linear infinite;
-                color: red;
-                font-family: sans-serif;
-            }
-            @keyframes blinker {
-                50% {
-                    opacity: 0;
-                }
-            }
-        </style>
-    </head>
-
-    <body>
-        <marquee class="manu"</marquee>
-    </body>
-
-</html>
-
+<head>
+    <title>Marquee Tag</title>
+    <style>
+    .main {
+        text-align:center;
+    }
+    .marq {
+        padding-top:30px;
+        padding-bottom:30px;
+    }
+    .geek1 {
+        font-size:36px;
+        font-weight:bold;
+        color:white;
+        padding-bottom:10px;
+    }
+    </style>
+</head>
+ 
+<body>
+    <div class = "main">
+    <marquee class="marq" bgcolor = "Green" direction = "left" loop="" >
+        <div class="geek1">GeeksforGeeks</div>
+        <div class="geek2">A computer science portal for geeks</div>
+    </marquee>
+    </div>
+</body>
+</html>                   
