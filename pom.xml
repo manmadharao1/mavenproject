@@ -36,12 +36,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>manu</name>
-		<url>http://99.79.65.10:8081/repository/mohan/</url>
+		<url>http://99.79.65.10:8081/repository/test/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>manu</name>
-		<url>http://99.79.65.10:8081/repository/mohan/</url>
+		<url>http://99.79.65.10:8081/repository/test/</url>
       </repository>
 	
    </distributionManagement>
