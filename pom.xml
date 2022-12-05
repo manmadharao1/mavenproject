@@ -36,12 +36,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>manu</name>
-		<url>http://35.183.185.118:8081/repository/sreeram/</url>
+		<url>http://99.79.65.10:8081/repository/mohan/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>manu</name>
-		<url>http://35.183.185.118:8081/repository/sreeram/</url>
+		<url>http://99.79.65.10:8081/repository/mohan/</url>
       </repository>
 	
    </distributionManagement>
